@@ -1,1 +1,1 @@
-A dockerized Apache Spark
+A dockerized Apache Spark.
